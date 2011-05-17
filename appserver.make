@@ -51,7 +51,7 @@ projects[views][subdir] = contrib
 projects[appserver][type] = module
 projects[appserver][download][type] = git 
 projects[appserver][download][url] = https://bhirsch@github.com/bhirsch/appserver.git
-projects[appserver][download][branch] = 7.x-1.x
+projects[appserver][download][branch] = master
 projects[appserver][directory_name] = custom 
 
 ; Libraries
